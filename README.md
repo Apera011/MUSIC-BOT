@@ -79,6 +79,6 @@ help, see the list of available commands.
 debug, see number of voice connections.
 ```
 
-### 🎵 **BOT CODE LISENCE **
+### 🎵 **BOT CODE LISENCE**
 
 - GIVE OUR SEVRER NAME IN BOT STATUS **WITH BOT HOMETOWN**
